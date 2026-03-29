@@ -1,0 +1,35 @@
+{
+  "_note": "Example DAWA address IDs for demonstration. These are representative IDs — actual live analysis fetches fresh data.",
+  "addresses": [
+    {
+      "id": "0a3f507a-0f62-32b8-e044-0003ba298018",
+      "tekst": "Vestergade 1, 8000 Aarhus C",
+      "label": "Aarhus villa",
+      "description": "Suburban address in central Aarhus. High walkability, good school access."
+    },
+    {
+      "id": "0a3f507a-6e74-32b8-e044-0003ba298018",
+      "tekst": "Nørrebrogade 1, 2200 København N",
+      "label": "København lejlighed",
+      "description": "Urban apartment on Nørrebro. Excellent transit and urban amenities."
+    },
+    {
+      "id": "0a3f507a-4dd7-32b8-e044-0003ba298018",
+      "tekst": "Strandvejen 100, 2900 Hellerup",
+      "label": "Kystby Hellerup",
+      "description": "Coastal area north of Copenhagen. Climate risk relevant. High income area."
+    },
+    {
+      "id": "0a3f507a-c3a5-32b8-e044-0003ba298018",
+      "tekst": "Algade 1, 4000 Roskilde",
+      "label": "Forstad Roskilde",
+      "description": "Family suburb west of Copenhagen. Good balance of price and quality."
+    },
+    {
+      "id": "0a3f507a-d801-32b8-e044-0003ba298018",
+      "tekst": "Beder Landevej 25, 8330 Beder",
+      "label": "Landsby syd for Aarhus",
+      "description": "Quiet village south of Aarhus. Low crime, car needed for most errands."
+    }
+  ]
+}
